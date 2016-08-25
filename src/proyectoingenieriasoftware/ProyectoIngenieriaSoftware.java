@@ -42,6 +42,10 @@ public void Insertar()throws IOException{
 public void Buscar()throws IOException{
     
 }
+ public void Salir ()throws IOException{
+    
+}
+
 
         
     }
