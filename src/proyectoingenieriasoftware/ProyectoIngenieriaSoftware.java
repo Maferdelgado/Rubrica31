@@ -28,7 +28,8 @@ public static void Menu()throws IOException{
      System.out.println("\t\t\t=                                    =");
      System.out.println("\t\t\t= 1-Universidad Laica Eloy Alfaro de Manabí =");
      System.out.println("\t\t\t= 2- Hola Ing soy Mafer                     =");
-      System.out.println("\t\t\t= 3- Insertar                       =");
+     System.out.println("\t\t\t= 3- Insertar                       =");
+     System.out.println("\t\t\t= 3- Buscar                         =");
      System.out.println("\t\t\t= 3- Salir                           =");
      System.out.println("............................................");
      System.out.println("\t\t\t======================================");
@@ -38,5 +39,9 @@ public static void Menu()throws IOException{
 public void Insertar()throws IOException{
     
 }
+public void Buscar()throws IOException{
+    
+}
+
         
     }
