@@ -37,12 +37,14 @@ public static void Menu()throws IOException{
      
     } 
 public void Insertar()throws IOException{
-    
+    int Marifer;
+    System.out.println("Insertar un dato");
 }
 public void Buscar()throws IOException{
     
 }
  public void Salir ()throws IOException{
+     
     
 }
 
